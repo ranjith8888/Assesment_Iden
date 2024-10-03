@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Ranjith Kumar",
+        "Email": "goudp1234@gmail.com",
+        "IsAdmin": true,
+        "CreatedAt": "2024-10-03T20:21:02.054690",
+        "Role": "Webspace Owner"
+    },
+    {
+        "Name": "Ranjith Project",
+        "Email": "No email available",
+        "IsAdmin": false,
+        "CreatedAt": "2024-10-03T20:21:02.054690",
+        "Role": "Webspace Member"
+    }
+]
