@@ -1,5 +1,6 @@
 Overview OF THE Assesment
 
+
 This Python script uses Playwright to automate the login process to Notion and fetches the list of team members, including their details such as name, email, role, admin status, and creation date. The gathered information is then saved to a JSON file.
 
 Detail Overview of How this Code works:
@@ -27,3 +28,14 @@ Screenshot - ![Screenshot 2024-10-04 002219](https://github.com/user-attachments
 
 7) Finally, the script saves the collected team member data in a formatted JSON file (team_members.json).
 Completion: The script prints a confirmation message and closes the browser.
+
+
+Code Overview
+
+code is written example.py file
+To run the script we need to use below command
+cmd: python example.python
+After succesfull run of the script we need to given the below notion login credentials
+Enter your notion email: goudp1234@gmail.com
+Enter your notion Password:123456
+After entering this credentials ,then it opens a Chromium browser and navigate to Notion's login page.It autologins and populates 100 team members
